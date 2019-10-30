@@ -1,0 +1,2 @@
+npm install express ejs fs-extra mongoose morgan multer timeago.js uuid
+npm install nodemon -D
